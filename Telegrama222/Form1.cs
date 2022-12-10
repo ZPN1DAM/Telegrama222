@@ -31,7 +31,7 @@ namespace Telegrama222
             //Leo el telegrama
             textoTelegrama = txtTelegrama.Text;
             // telegrama urgente?
-            if (cbUrgente.Checked)
+            if (rdUrge.Checked)
                 tipoTelegrama = 'u';
             //Obtengo el número de palabras que forma el telegrama 
             numPalabras = textoTelegrama.Length;
