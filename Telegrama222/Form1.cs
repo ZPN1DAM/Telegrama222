@@ -30,7 +30,7 @@ namespace Telegrama222
             double coste;
             int i = 0;
 
-            //Leo el telegrama
+            //Leo el telegrama 1
             textoTelegrama = txtTelegrama.Text;
 
             // telegrama urgente?
